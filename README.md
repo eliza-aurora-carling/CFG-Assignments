@@ -10,4 +10,13 @@ In this assignment, I will be using GitHub to complete the first assignment whic
 The most **interesting** coding project I have done was 2 years ago, analysing ***attitudes*** to the China-Pakistan Economic Corridor, specifically the ***Belt-and-Road Initiative***. We did this in a team and used ***Natural Language Processing*** to determine the sentiment of hundreds of journals, websites, tweets and social media posts. The coding language was ***Python***.
 
 
-## My favourite park in London is [Regent's Park](https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill). 
+## My favourite places in London
+
+- ### My favourite park in London is [Regent's Park](https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill). 
+- ### My favorite bookshop is Foyles in Charing Cross.
+- ### My favourite area is Marylebone because it is calm and pretty.
+
+## Have you visited any of these?
+- [] Regent's Park
+- [] Foyles
+- [] Marylebone
