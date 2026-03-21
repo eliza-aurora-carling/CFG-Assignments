@@ -17,6 +17,6 @@ The most **interesting** coding project I have done was 2 years ago, analysing *
 - ### My favourite area is Marylebone because it is calm and pretty.
 
 ## Have you visited any of these?
-- [] Regent's Park
-- [] Foyles
-- [] Marylebone
+- [ ] Regent's Park
+- [ ] Foyles
+- [ ] Marylebone
