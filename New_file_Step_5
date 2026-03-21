@@ -1,17 +1,2 @@
-A `requirements.txt` file is crucial in Python projects as it specifies the dependencies that your project requires. This file allows you to easily install all the required packages with a single command.
+A `requirements.txt` file in Python projects specifies the dependencies that your project requires. This file allows you to easily install all the required packages with a single command.
 
-### How to Create a `requirements.txt` File:
-1. **Manual Creation:**
-   - Create a new file named `requirements.txt` in your project directory and list your package dependencies in it. Each line should contain the package name and optionally the version, e.g., `requests==2.25.1`.
-
-2. **Using pip:**
-   - If you already have a virtual environment set up and you want to capture all the installed packages, use the following command:
-     ```bash
-     pip freeze > requirements.txt
-     ```
-   - This command lists all installed packages and their versions and saves them to the `requirements.txt` file.
-
-### Purpose of `requirements.txt`:
-- Simplifies the setup process for other developers or your future self.
-- Allows for consistent environments to be created by specifying exact package versions.
-- Facilitates dependency management.
