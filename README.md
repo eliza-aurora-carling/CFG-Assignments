@@ -26,5 +26,5 @@ The most **interesting** coding project I have done was 2 years ago, analysing *
 - [ ] Foyles
 - [ ] Marylebone
 
-[This screenshot shows some steps of my working](<img width="1089" height="975" alt="Screenshot 2026-03-21 154354" src="https://github.com/user-attachments/assets/77cf3d4a-6d05-4960-86a3-2ebe3c9169ab" />
-)
+[This screenshot shows some steps of my working](https://ctrlv.link/CPUR) 
+
