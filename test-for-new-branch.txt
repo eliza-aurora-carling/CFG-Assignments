@@ -1,1 +1,3 @@
 Here is a new file for my new branch.
+
+I am writing some more so that I can add a meaningful message when I commit changes.
