@@ -291,23 +291,16 @@ END //
 
 DELIMITER ;
 
--- Example of calling the stored procedure:
+-- example of calling the stored procedure:
 -- CALL BookClass(1, 1);
 
--- =====================================================
--- PART 11: NORMALIZATION EVIDENCE
--- =====================================================
 
--- The database is normalized because:
--- 1. Members table stores personal info once (no repetition)
--- 2. Classes table defines class types once (not repeated in each schedule)
--- 3. Bookings connects members and schedules (many-to-many relationship)
--- 4. No duplicate data across tables
--- 5. All non-key attributes depend on the primary key
-
--- =====================================================
--- PART 12: CREATIVE SCENARIO SUMMARY
--- =====================================================
+-- It's normalised because:
+-- 1. members table stores personal info once (no repetition)
+-- 2. classes table defines class types once (not repeated in each schedule)
+-- 3. bookings connects members and schedules (many-to-many relationship)
+-- 4. no duplicate data across tables
+-- 5. all non-key attributes depend on the primary key
 
 /*
 
